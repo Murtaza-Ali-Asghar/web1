@@ -1,0 +1,46 @@
+body {
+    max-width: 100%;
+    max-height: 100%;
+    background-color:darkslategrey;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 150px;
+}
+
+.btn {
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: darkcyan;
+    color:antiquewhite;
+    cursor: pointer;
+    transition: 0.8s;
+    height: 30px;
+    border-style: none;
+}
+.btn:hover {
+    color: darkcyan;
+    background-color:aliceblue;
+}
+
+.next {
+    text-decoration: none;
+    color: black;
+    font-size:larger;
+    transition: 0.8s;
+
+}
+.next:hover {
+    color: darkcyan;
+}
+
+hr {
+    color: black;
+    width: 350px;
+}
+
+/* .box {
+    border-style:outset;
+    width:250px;
+    height: 360px;
+    margin-left: 630px;
+} */
